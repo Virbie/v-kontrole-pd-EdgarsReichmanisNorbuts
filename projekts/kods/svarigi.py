@@ -1,0 +1,1 @@
+print("Reti kas dzīvē ir svarīgāks par versiju kontroli")
